@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 520">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1e5a"/><stop offset="1" stop-color="#5a46b0"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff3bd"/><stop offset="1" stop-color="#ffd980"/></linearGradient></defs>
+<rect width="750" height="520" fill="url(#sky)"/><circle cx="341" cy="46" r="2" fill="#fff" opacity="1"/><circle cx="59" cy="26" r="2.5" fill="#fff" opacity="0.5"/><circle cx="384" cy="22" r="2.5" fill="#fff" opacity="0.5"/><circle cx="48" cy="30" r="2" fill="#fff" opacity="0.8"/><circle cx="81" cy="69" r="1.5" fill="#fff" opacity="1"/><circle cx="444" cy="23" r="2.5" fill="#fff" opacity="0.5"/><circle cx="238" cy="23" r="2.5" fill="#fff" opacity="1"/><circle cx="416" cy="20" r="1.5" fill="#fff" opacity="0.5"/><circle cx="580" cy="42" r="2" fill="#fff" opacity="0.8"/><circle cx="157" cy="146" r="1.5" fill="#fff" opacity="1"/><circle cx="325" cy="54" r="1.5" fill="#fff" opacity="1"/><circle cx="594" cy="56" r="2" fill="#fff" opacity="0.5"/><circle cx="570" cy="24" r="2.5" fill="#fff" opacity="0.5"/><circle cx="643" cy="60" r="2" fill="#fff" opacity="1"/><circle cx="554" cy="117" r="2" fill="#fff" opacity="0.8"/><circle cx="609" cy="124" r="2" fill="#fff" opacity="0.8"/><circle cx="264" cy="54" r="2.5" fill="#fff" opacity="0.5"/><circle cx="93" cy="84" r="2.5" fill="#fff" opacity="0.8"/><circle cx="361" cy="122" r="2" fill="#fff" opacity="1"/><circle cx="84" cy="38" r="2.5" fill="#fff" opacity="0.8"/><circle cx="178" cy="95" r="1.5" fill="#fff" opacity="0.8"/><circle cx="441" cy="18" r="2.5" fill="#fff" opacity="0.5"/><circle cx="581" cy="88" r="2" fill="#fff" opacity="1"/><circle cx="368" cy="135" r="2.5" fill="#fff" opacity="0.8"/><circle cx="80" cy="31" r="2" fill="#fff" opacity="0.8"/><circle cx="723" cy="24" r="1.5" fill="#fff" opacity="1"/>
+<circle cx="650" cy="72" r="38" fill="#ffe9a8"/><circle cx="668" cy="62" r="34" fill="#2a2a78"/>
+<rect y="468" width="750" height="52" fill="#2a2260"/>
+<rect x="100" y="150" width="550" height="320" rx="10" fill="#ff7a59"/>
+<rect x="100" y="150" width="550" height="14" fill="#e85d3d"/>
+<path d="M90 150 H660 V205 Q643 225 623 205 Q603 225 583 205 Q563 225 543 205 Q523 225 503 205 Q483 225 463 205 Q443 225 423 205 Q403 225 383 205 Q363 225 343 205 Q323 225 303 205 Q283 225 263 205 Q243 225 223 205 Q203 225 183 205 Q163 225 143 205 Q123 225 103 205 L90 205 Z" fill="#ffd23f"/>
+<path d="M130 150 H190 V215 H130 Z M250 150 H310 V225 H250 Z M370 150 H430 V225 H370 Z M490 150 H550 V225 H490 Z M610 150 H660 V215 H610 Z" fill="#fff6dd" opacity=".9"/>
+<rect x="225" y="84" width="300" height="62" rx="14" fill="#5b3a29"/><rect x="233" y="92" width="284" height="46" rx="10" fill="#7a5238"/>
+<rect x="140" y="245" width="270" height="175" rx="14" fill="#5b3a29"/><rect x="152" y="257" width="246" height="151" rx="8" fill="url(#glass)"/>
+<rect x="140" y="395" width="270" height="34" rx="6" fill="#8d5a3b"/>
+<rect x="455" y="250" width="150" height="220" rx="14" fill="#2ec4b6"/><rect x="470" y="268" width="120" height="85" rx="10" fill="#fff3bd"/>
+<circle cx="580" cy="400" r="9" fill="#ffd23f"/>
+<rect x="455" y="462" width="150" height="8" fill="#1f9d92"/>
+</svg>
